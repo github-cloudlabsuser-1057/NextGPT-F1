@@ -1,5 +1,0 @@
-URL-->https://nextgptcosmosdb.documents.azure.com:443/
-
-KEY-->QPUJCqbq8M1QcdZty8lMdORK0rPPK9YUWYIJbiDNcc9cb8eRb0UHidOMIMuqUEm2gwlgElDrcApfACDbDipKTA==
-
-Primary Conn String-->AccountEndpoint=https://nextgptcosmosdb.documents.azure.com:443/;AccountKey=QPUJCqbq8M1QcdZty8lMdORK0rPPK9YUWYIJbiDNcc9cb8eRb0UHidOMIMuqUEm2gwlgElDrcApfACDbDipKTA==;
